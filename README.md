@@ -13,3 +13,5 @@ HTML, CSS, JavaScript, jQuery
 
 ## Tools
 Atom Editor, Google Chrome Browser
+
+https://nikitad1491.github.io/Simon-Game-Challenge/
